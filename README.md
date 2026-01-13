@@ -12,7 +12,7 @@
 ## 📊 Progress
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white; margin: 20px 0;">
-  <h3 style="margin: 0; color: white;">Problems Solved: <strong>5</strong></h3>
+  <h3 style="margin: 0; color: white;">Problems Solved: <strong>6</strong></h3>
 </div>
 
 ## 📝 Solutions
@@ -21,6 +21,7 @@
 |---|---------|----------|------------|
 | 1 | [Two Sum](1-two-sum.c) | C | Easy |
 | 13 | [Roman to Integer](13-roman-to-integer.py) | Python | Easy |
+| 121 | [Best Time to Buy and Sell Stock](121-best-time-to-buy&sell-stocks.py) | Python | Easy |
 | 392 | [Is Subsequence](392-is-subsequence.py) | Python | Easy |
 | 1768 | [Merge Strings Alternately](1768-merging-strings-alternatively.py) | Python | Easy |
 | 2239 | [Find Closest Number to Zero](2239-finid-the-closest-number-to-zero.py) | Python | Easy |
